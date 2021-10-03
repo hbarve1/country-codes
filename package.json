@@ -1,0 +1,28 @@
+{
+  "name": "country-codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbarve1/country-codes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbarve1/country-codes/issues"
+  },
+  "homepage": "https://github.com/hbarve1/country-codes#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13",
+    "prettier": "^2.4.1"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^3.20.3"
+  }
+}
